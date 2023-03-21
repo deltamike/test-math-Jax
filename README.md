@@ -12,7 +12,7 @@ $$A = \begin{bmatrix}
        0 &   0 &  1
       \end{bmatrix}$$
       
- One lens distortion model, in part:
+ One OpenCV lens distortion model, in part:
       
 $$ \begin{bmatrix}
 x'' \\
