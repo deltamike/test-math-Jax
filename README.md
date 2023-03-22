@@ -22,7 +22,7 @@ x' \frac{1 + k_1 r^2 + k_2 r^4 + k_3 r^6}{1 + k_4 r^2 + k_5 r^4 + k_6 r^6} + 2 p
 y' \frac{1 + k_1 r^2 + k_2 r^4 + k_3 r^6}{1 + k_4 r^2 + k_5 r^4 + k_6 r^6} + p_1 (r^2 + 2 y'^2) + 2 p_2 x' y' + s_3 r^2 + s_4 r^4 \\
 \end{bmatrix}$$
 
-A matlab display of the dynasaur-killing meteor geoid anomaly:
+A matlab display of the dinosaur-killing meteor geoid anomaly:
 
 ![test](http://acadiacontrols.com/images/carribbean_large.jpg)
 
